@@ -1,0 +1,9 @@
+D:\Dev\projects\ForecastingService\ForecastingService.Shared\bin\Debug\netcoreapp2.1\ForecastingService.Shared.deps.json
+D:\Dev\projects\ForecastingService\ForecastingService.Shared\bin\Debug\netcoreapp2.1\ForecastingService.Shared.dll
+D:\Dev\projects\ForecastingService\ForecastingService.Shared\bin\Debug\netcoreapp2.1\ForecastingService.Shared.pdb
+D:\Dev\projects\ForecastingService\ForecastingService.Shared\obj\Debug\netcoreapp2.1\ForecastingService.Shared.csprojAssemblyReference.cache
+D:\Dev\projects\ForecastingService\ForecastingService.Shared\obj\Debug\netcoreapp2.1\ForecastingService.Shared.csproj.CoreCompileInputs.cache
+D:\Dev\projects\ForecastingService\ForecastingService.Shared\obj\Debug\netcoreapp2.1\ForecastingService.Shared.AssemblyInfoInputs.cache
+D:\Dev\projects\ForecastingService\ForecastingService.Shared\obj\Debug\netcoreapp2.1\ForecastingService.Shared.AssemblyInfo.cs
+D:\Dev\projects\ForecastingService\ForecastingService.Shared\obj\Debug\netcoreapp2.1\ForecastingService.Shared.dll
+D:\Dev\projects\ForecastingService\ForecastingService.Shared\obj\Debug\netcoreapp2.1\ForecastingService.Shared.pdb
